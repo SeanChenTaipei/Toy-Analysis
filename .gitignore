@@ -1,0 +1,16 @@
+.venv/
+.venv_clean/
+.venv_ready/
+.venv_toy/
+.tmp/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+
+# Local data and generated artifacts
+Task_to candidates_Final.csv
+Task_to candidates_Final.xls
+pyarrow/
+
